@@ -1,0 +1,15 @@
+{
+  "hero":        { "src": "images/hero.jpg",        "alt": "Ibu menggendong bayi" },
+  "kbpp-42hari": { "src": "images/kbpp-42hari.jpg", "alt": "Ibu menggendong bayi dengan kalender 42 hari" },
+  "konsultasi":  { "src": "images/konsultasi.jpg",  "alt": "Ibu hamil berkonsultasi dengan bidan" },
+  "keluarga":    { "src": "images/keluarga.jpg",    "alt": "Keluarga bersama bayi" },
+  "iud":         { "src": "images/iud.jpg",         "alt": "IUD / AKDR" },
+  "implan":      { "src": "images/implan.jpg",      "alt": "Implan" },
+  "suntik":      { "src": "images/suntik.jpg",      "alt": "Suntik KB" },
+  "pil":         { "src": "images/pil.jpg",         "alt": "Pil KB" },
+  "kondom":      { "src": "images/kondom.jpg",      "alt": "Kondom" },
+  "mow":         { "src": "images/mow.jpg",         "alt": "MOW / MOP" },
+  "bidan-ibu":   { "src": "images/bidan-ibu.jpg",   "alt": "Bidan berkonsultasi dengan ibu hamil" },
+  "mitos-ibu":   { "src": "images/mitos-ibu.jpg",   "alt": "Ibu berpikir" },
+  "cta-ibu":     { "src": "images/cta-ibu.jpg",     "alt": "Ibu tersenyum" }
+}
